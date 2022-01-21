@@ -79,4 +79,28 @@
                              2.Register
                              3.Back
   
-  File Name :- Amazone.java 🦖
+  File Name :- Railway.java 🦖
+
+4 ==> Library Management System Application Using CLI(Commend Line Interface)
+
+  Programing Language used ==> Java
+  
+  2 Users ==> Admin User & Normal User
+              
+              Admin User ==> 1.Add new Book
+                             2.Remove Book
+                             3.Edit Book
+                             4.View all Book's
+                             5.View Borrowed Book List
+                             6.View Fine List
+                             7.Register a new Student 
+                             8.Register a new Admin 
+                             9.Back
+                             
+                             Admin ID       - 1
+                             Admin Password - 19072001
+                             
+             Normal User ==> 1.Login 
+                             2.Back
+  
+  File Name :- Library Management System.java 🦖
