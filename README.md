@@ -10,8 +10,8 @@
                              2.Check Money
                              3.Exit
                              
-                             Admin ID       - Admin
-                             Admin Password - 1234
+                             Admin ID       - Sakthi
+                             Admin Password - 19072001
                              
              Normal User ==> 1.Deposit Money
                              2.Widhdraw Money
@@ -21,10 +21,10 @@
                              6.Exit
                              
                              User ID (1)       - Shadow
-                             User Password (1) - 1234
+                             User Password (1) - 1907
                              
                              User ID (2)        - Dark
-                             USser Password (2) - 1234
+                             USser Password (2) - 1907
   With Login :-)
   
   File Name :- Atm.java 🦖
@@ -58,7 +58,7 @@
                                     2 => Deposite 
                                     3 => Statement
                                     
-            Admin Id       :- Admin
-            Admin Password :- 1234
+            Admin Id       :- Sakthi
+            Admin Password :- 19072001
             
   File Name :- Amazon.java 🦖
