@@ -25,7 +25,6 @@
                              
                              User ID (2)        - Dark
                              USser Password (2) - 1907
-  With Login :-)
   
   File Name :- Atm.java 🦖
 
@@ -62,3 +61,22 @@
             Admin Password :- 19072001
             
   File Name :- Amazon.java 🦖
+  
+  3 ==> Railway Ticket Booking Application Using CLI(Commend Line Interface)
+
+  Programing Language used ==> Java
+  
+  2 Users ==> Admin User & Normal User
+              
+              Admin User ==> 1.Add Number of Station & Seat
+                             2.View Seat Availability
+                             3.Back
+                             
+                             Admin ID       - Sakthi
+                             Admin Password - 19072001
+                             
+             Normal User ==> 1.Login
+                             2.Register
+                             3.Back
+  
+  File Name :- Amazone.java 🦖
